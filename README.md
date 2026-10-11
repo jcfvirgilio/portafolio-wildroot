@@ -1,10 +1,10 @@
 # WILDROOT — Portafolio 2 (concepto)
 
 Una experiencia web inmersiva inspirada en la naturaleza. El objetivo es un proyecto con: atmósfera verde oscura, paisaje orgánico, elementos flotantes, tipografía editorial y microinteracciones.
+## Demo
+[wildroot](https://portafolio-wildroot-eight.vercel.app/)
 
 > **Transparencia del portafolio:** WILDROOT es un estudio ficticio y sus tres proyectos son conceptos creativos originales, no trabajos encargados por clientes. No se presentan métricas, premios ni relaciones comerciales reales. La imagen de fondo es una ilustración original generada para esta demostración.
-
-![Vista previa conceptual de la portada](docs/vista-previa-conceptual.png)
 
 _La vista previa es un mockup del diseño esperado, no una captura de una compilación ejecutada._
 
